@@ -5,7 +5,7 @@ html, body {
 
  @font-face {
         font-family: sans-serif;
-        src: url(texgyreheroscn-bold.otf);
+        src: url(fonts/texgyreheroscn-bold.otf);
       }
       body,
       textarea{
