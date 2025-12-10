@@ -1,0 +1,30 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+ @font-face {
+        font-family: sans-serif;
+        src: url(texgyreheroscn-bold.otf);
+      }
+      body,
+      textarea{
+        font-family: sans-serif;
+      }
+
+textarea{
+resize: none;
+        position: relative;
+        top: 0;    
+        left: 0;
+        padding: 1em;
+        margin: 1em;
+        background-color: rgb(251, 188, 87);
+        border: 1px solid rgb(1, 77, 240);
+        width: 20em;
+        height: 10em;
+}
+
+canvas {
+  display: block;
+}
